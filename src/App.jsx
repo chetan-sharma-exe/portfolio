@@ -31,7 +31,10 @@ function App() {
             </button>
           </a>
 
-          <a href="www.linkedin.com/in/chetan-sharma-ab9558280" target="_blank">
+          <a
+            href="https:/www.linkedin.com/in/chetan-sharma-ab9558280"
+            target="_blank"
+          >
             <button className="linkedin_b">
               <CiLinkedin className="li_text" size={25} />
             </button>
