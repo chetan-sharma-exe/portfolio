@@ -32,7 +32,7 @@ function App() {
           </a>
 
           <a
-            href="https:/www.linkedin.com/in/chetan-sharma-ab9558280"
+            href="https://www.linkedin.com/in/chetan-sharma-ab9558280"
             target="_blank"
           >
             <button className="linkedin_b">
