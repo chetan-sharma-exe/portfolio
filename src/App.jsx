@@ -52,6 +52,7 @@ function App() {
         <Project
           projectName={"Helium"}
           category={"Ai chatbot"}
+          link={"https://helium-kappa.vercel.app"}
           color={"#dcbe3d"}
         />
         <Project
