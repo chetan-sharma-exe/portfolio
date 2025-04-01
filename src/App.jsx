@@ -17,7 +17,7 @@ function App() {
             Hi,
             <br />I am Chetan
           </p>
-          <p className="speciality">Front End Developer</p>
+          <p className="speciality">Full Stack Developer</p>
         </div>
         <div className="links">
           <a href="https://github.com/chetan-sharma-exe" target="_blank">
